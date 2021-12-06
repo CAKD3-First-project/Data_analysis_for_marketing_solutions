@@ -29,7 +29,7 @@
 ![image](https://user-images.githubusercontent.com/86218931/144771062-0ee97c9f-3c5f-4991-92b6-a8a300324c18.png)
 
 #### 6. 총정리
-- 경쟁사 이탈 방지, 온라인 구매 증가 유도, 주요 품목 구매 증가를 위한 마케팅 제안
+- 감소 고객 유형에 따라 경쟁사 이탈 방지, 온라인 구매 증가 유도, 주요 품목 구매 증가를 위한 마케팅 솔루션을 제안
 
 ![image](https://user-images.githubusercontent.com/86218931/144771149-0783ab0f-bfda-4f78-bf66-0f329be41137.png)
 
